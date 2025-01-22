@@ -7,7 +7,7 @@ All Python packages needed are listed in [requirements.txt](requirements.txt). Y
     cd llm-email-spam-detection
     python -m venv venv
     source venv/bin/activate
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 if you are using windows don’t forget to also install the pywin32 package using this :
 after:
