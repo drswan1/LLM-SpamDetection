@@ -20,3 +20,6 @@ All source code used to generate the results and figures in the paper are in the
 You can start training the 6 baseline ML techniques and fine tuning of the 3 large language models with the following command:
 
     python main.py
+
+
+Forked from the Original repo: https://github.com/jpmorganchase/llm-email-spam-detection
