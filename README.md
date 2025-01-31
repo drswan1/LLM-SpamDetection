@@ -17,6 +17,6 @@ pip install pywin32
 
 All source code used to generate the results and figures in the paper are in the `src` folder. The data used in this paper is automatically downloaded, processed, and stored in the `data` folder.
 
-You can start training the 6 baseline techniques and 3 large language models with the following command:
+You can start training the 6 baseline ML techniques and fine tuning of the 3 large language models with the following command:
 
     python main.py
