@@ -77,7 +77,7 @@ pytz==2024.2
 PyYAML==6.0.2
 pyzmq==26.2.0
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 responses==0.25.3
 safetensors==0.5.0
 SciencePlots==2.1.1
